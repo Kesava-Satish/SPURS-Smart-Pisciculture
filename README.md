@@ -24,7 +24,7 @@ The system operates on a feedback loop:
 4.  **Action:** Alerts are generated if parameters deviate from the "Optimal" range into the "Critical" range.
 
 ## Repository Structure
-* `/src`: Python implementation of the recommendation algorithm.
+* `/src`: Complete set of codes used for the project.
 * `/firmware`: C++ code for the ESP32 sensor node.
 * `/data`: Datasets defining optimal and critical parameters for supported fish species.
 * `/docs`: Conference paper and project documentation.
