@@ -1,0 +1,6 @@
+Fish Species,Optimal pH Range,Optimal DO (mg/L),Water Color,Optimal TDS (mg/L),Optimal Temperature (°C),Optimal Turbidity (NTU)
+"Carps  (Labeo rohita, Catla catla, Cirrhinus cirrhosus, Cyprinus carpio), Hypophthalmichthys molitrix, Ctenopharyngodon idella).",6.5-8.5,5-7,Clear,<2000,25-32,<30
+Tilapia (Oreochromis spp.),6.5-8.5,5-7,Clear to greenish,<2000,22-32,<30
+"Murrels (Channa striata, Channa marulius, Channa punctatus)",6.5-8.5,5-7,Clear to greenish,<2000,24-32,<30
+Pangasius (Pangasianodon hypophthalmus),6.5-8.5,5-7,Clear to greenish,<2000,24-30,<30
+Roopchand (Labeo calbasu),6.5-8.5,5-7,Clear to greenish,<2000,22-32,<30
